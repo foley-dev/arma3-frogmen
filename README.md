@@ -1,6 +1,6 @@
 # Frogmen
 
-![Loading screen]()
+![Loading screen](https://raw.githubusercontent.com/foley-dev/arma3-frogmen/assets/screenshots/loading.png)
 
 *Flooding proof of concept*
 
@@ -10,7 +10,7 @@
 * Map: **Tanoa**
 * Player count: **20**
 * Typical duration: **40 min**
-* [Mod dependencies]()
+* [Mod dependencies](https://raw.githubusercontent.com/foley-dev/arma3-frogmen/assets/tour_modset.html) (load into Arma 3 Launcher)
 
 ## Scripting highlights
 
@@ -22,4 +22,8 @@
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/foley-dev/arma3-frogmen/assets/screenshots/1.jpg)
+
+![Screenshot](https://raw.githubusercontent.com/foley-dev/arma3-frogmen/assets/screenshots/2.jpg)
+
+![Screenshot](https://raw.githubusercontent.com/foley-dev/arma3-frogmen/assets/screenshots/3.jpg)
